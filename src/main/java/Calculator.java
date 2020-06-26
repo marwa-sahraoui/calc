@@ -7,4 +7,8 @@
      public int multiply(int c, int d) {
          return c * d;
      }
+
+     public int soustraction(int e, int f) {
+         return f - e;
+     }
  }
